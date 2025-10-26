@@ -1,2 +1,2 @@
 # sales--analysis
-sample sales analysis project
+sample project - sales analysis project
